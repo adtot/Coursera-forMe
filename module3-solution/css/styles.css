@@ -1,0 +1,16 @@
+li {
+	background-color: lightblue;
+	border: 1px solid black;
+
+}
+.container {
+
+}
+h1 {
+	color: cyan;
+}
+section {
+	height: 1000px;
+	background-color: lightblue;
+	overflow: hidden;
+}
